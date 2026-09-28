@@ -1,0 +1,61 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Purge changed files from jsDelivr
+        env:
+          BEFORE: ${{ github.event.before }}
+          REPO: ${{ github.repository }}
+          BRANCH: main
+        run: |
+          set -euo pipefail
+
+          # Daftar file yang berubah di push ini.
+          # Kalau push pertama / manual run, purge semua file.
+          if [ -z "${BEFORE}" ] || [ "${BEFORE}" = "0000000000000000000000000000000000000000" ]; then
+            FILES=$(git ls-tree -r --name-only HEAD)
+          else
+            FILES=$(git diff --name-only "${BEFORE}" "${GITHUB_SHA}")
+          fi
+
+          # Abaikan file yang nggak dipakai lewat jsDelivr
+          FILES=$(echo "${FILES}" | grep -v '^\.github/' | grep -v '^README.md$' || true)
+
+          if [ -z "${FILES}" ]; then
+            echo "Tidak ada file yang perlu di-purge."
+            exit 0
+          fi
+
+          echo "File yang akan di-purge:"
+          echo "${FILES}"
+
+          # Bentuk path jsDelivr: /gh/<user>/<repo>@main/<file>
+          # lalu pecah per 20 path biar aman dari rate limit
+          echo "${FILES}" \
+            | jq -R --arg repo "${REPO}" --arg branch "${BRANCH}" '"/gh/" + $repo + "@" + $branch + "/" + .' \
+            | jq -s -c '[_nwise(20)]' \
+            | jq -c '.[]' \
+            | while read -r CHUNK; do
+                BODY=$(jq -c -n --argjson paths "${CHUNK}" '{path: $paths}')
+                curl -sS -X POST \
+                  -H "Content-Type: application/json" \
+                  -d "${BODY}" \
+                  https://purge.jsdelivr.net/
+                echo
+                sleep 2
+              done
