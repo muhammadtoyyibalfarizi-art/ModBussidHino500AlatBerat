@@ -1,0 +1,395 @@
+{
+  "base_url": "https://cdn.jsdelivr.net/gh/muhammadtoyyibalfarizi-art/ModBussidHino500AlatBerat@main/",
+  "release_base": "https://github.com/muhammadtoyyibalfarizi-art/ModBussidHino500AlatBerat/releases/download/1.0/",
+  "categories": [
+    "Hino 500 & 700",
+    "Muatan Alat Berat"
+  ],
+  "mods": [
+    {
+      "id": "truk-gandeng-hino-500-new-gen",
+      "title": "Hino 500 New Gen",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truk-Gandeng-Hino-500-New-Gen.webp",
+      "mod_file": "Truk-Gandeng-Hino-500-New-Gen.bussidmod"
+    },
+    {
+      "id": "truck-hino-gandeng-ranger-berkarat",
+      "title": "Hino Gandeng Ranger Karatan",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Gandeng-Ranger-Berkarat.webp",
+      "mod_file": "Truck-Hino-Gandeng-Ranger-Berkarat.bussidmod"
+    },
+    {
+      "id": "truck-hino-lohan-trailer-tangki",
+      "title": "Hino Lohan Trailer Tangki Tanker",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Lohan-Trailer-Tangki.webp",
+      "mod_file": "Truck-Hino-Lohan-Trailer-Tangki.bussidmod"
+    },
+    {
+      "id": "hino-lohan-molen",
+      "title": "Hino Lohan Molen",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Lohan-Molen.webp",
+      "mod_file": "Hino-Lohan-Molen.bussidmod"
+    },
+    {
+      "id": "hino-shagino-artis-sumbar",
+      "title": "Hino Shagino Artis Sumbar",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Shagino-Artis-Sumbar.webp",
+      "mod_file": "Hino-Shagino-Artis-Sumbar.bussidmod"
+    },
+    {
+      "id": "hino-dumb-sumatera",
+      "title": "Hino Dumb Sumatra",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Dumb-Sumatera.webp",
+      "mod_file": "Hino-Dumb-Sumatera.bussidmod"
+    },
+    {
+      "id": "hino-500-dumb",
+      "title": "Hino 500 Dumb",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-500-Dumb.webp",
+      "mod_file": "Hino-500-Dumb.bussidmod"
+    },
+    {
+      "id": "hino-kontainer-tronton",
+      "title": "Hino Kontainer Tronton",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Kontainer-Tronton.webp",
+      "mod_file": "Hino-Kontainer-Tronton.bussidmod"
+    },
+    {
+      "id": "hino-500-engkel",
+      "title": "Hino 500 Engkel",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-500-Engkel.webp",
+      "mod_file": "Hino-500-Engkel.bussidmod"
+    },
+    {
+      "id": "hino-flatbed-muatan-kontainer",
+      "title": "Hino Flatbed Muatan Kontainer",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Flatbed-Muatan-Kontainer.webp",
+      "mod_file": "Hino-Flatbed-Muatan-Kontainer.bussidmod"
+    },
+    {
+      "id": "truck-hino-cpo",
+      "title": "Truck Hino CPO",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-CPO.webp",
+      "mod_file": "Truck-Hino-CPO.bussidmod"
+    },
+    {
+      "id": "truck-muatan-besi-beton",
+      "title": "Hino Muatan Besi Beton",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Muatan-Besi-Beton.webp",
+      "mod_file": "Truck-Muatan-Besi-Beton.bussidmod"
+    },
+    {
+      "id": "hino-500-tronton-sumatra-style",
+      "title": "Hino 500 Tronton Sumatra Style",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-500-Tronton-Sumatra-Style.webp",
+      "mod_file": "Hino-500-Tronton-Sumatra-Style.bussidmod"
+    },
+    {
+      "id": "truck-hino-full-led",
+      "title": "Hino Full LED",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Full-LED.webp",
+      "mod_file": "Truck-Hino-Full-LED.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-profia-redbull",
+      "title": "Hino Profia RedBull",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Profia-RedBull.webp",
+      "mod_file": "Truck-Hino-Profia-RedBull.bussidmod"
+    },
+    {
+      "id": "hino-500-trailer-muat-mobil-banyak",
+      "title": "Hino 500 Trailer Muat Mobil Sedan",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-500-Trailer-Muat-Mobil-Banyak.webp",
+      "mod_file": "Hino-500-Trailer-Muat-Mobil-Banyak.bussidmod"
+    },
+    {
+      "id": "hino-700-trailer-maersk",
+      "title": "Hino 700 Trailer Maersk",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-700-Trailer-Maersk.webp",
+      "mod_file": "Hino-700-Trailer-Maersk.bussidmod"
+    },
+    {
+      "id": "truck-hino-dump-c9",
+      "title": "Hino Dump C9",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Dump-C9.webp",
+      "mod_file": "Truck-Hino-Dump-C9.bussidmod"
+    },
+    {
+      "id": "truck-hino-500-kontainer-panjang",
+      "title": "Hino 500 Kontainer Panjang",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Kontainer-Panjang.webp",
+      "mod_file": "Truck-Hino-500-Kontainer-Panjang.bussidmod"
+    },
+    {
+      "id": "truck-hino-dump-kalimantan-full-muatan",
+      "title": "Hino Dump Kalimantan Full Sawit",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Dump-Kalimantan-Full-Muatan.webp",
+      "mod_file": "Truck-Hino-Dump-Kalimantan-Full-Muatan.bussidmod"
+    },
+    {
+      "id": "hino-losbak-muatan-semen",
+      "title": "Hino Losbak Muatan Semen",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-Losbak-Muatan-Semen.webp",
+      "mod_file": "Hino-Losbak-Muatan-Semen.bussidmod"
+    },
+    {
+      "id": "man-tgs-muatan-crane",
+      "title": "MAN TGS Muatan Crane Putih Biru Muda",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/MAN-TGS-Muatan-Crane.webp",
+      "mod_file": "MAN-TGS-Muatan-Crane.bussidmod"
+    },
+    {
+      "id": "hino-700-tangki-jumbo-angkut-semen",
+      "title": "Hino 700 Tangki Jumbo Angkut Semen",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-700-Tangki-Jumbo-Angkut-Semen.webp",
+      "mod_file": "Hino-700-Tangki-Jumbo-Angkut-Semen.bussidmod"
+    },
+    {
+      "id": "truck-hino-muatan-beras-bulog",
+      "title": "Hino Muatan Beras Bulog",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Muatan-Beras-Bulog.webp",
+      "mod_file": "Truck-Hino-Muatan-Beras-Bulog.bussidmod"
+    },
+    {
+      "id": "truck-hino-long-chassis",
+      "title": "Hino Long Chassis",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Long-Chassis.webp",
+      "mod_file": "Truck-Hino-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "truck-towing-full-anim-strobo",
+      "title": "Hino Full Anim Strobo",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Towing-Full-Anim-Strobo.webp",
+      "mod_file": "Truck-Towing-Full-Anim-Strobo.bussidmod"
+    },
+    {
+      "id": "truck-hino-500ng-muatan-motor",
+      "title": "Hino 500NG Muatan Motor",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500NG-Muatan-Motor.webp",
+      "mod_file": "Truck-Hino-500NG-Muatan-Motor.bussidmod"
+    },
+    {
+      "id": "truck-hino-selfloader-buldozer",
+      "title": "Hino Selfloader Buldozer",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Selfloader-Buldozer.webp",
+      "mod_file": "Truck-Hino-Selfloader-Buldozer.bussidmod"
+    },
+    {
+      "id": "truck-hino-ranger-terpal",
+      "title": "Hino Ranger Terpal",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Ranger-Terpal.webp",
+      "mod_file": "Truck-Hino-Ranger-Terpal.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-ranger-box",
+      "title": "Hino Ranger Box",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Ranger-Box.webp",
+      "mod_file": "Truck-Hino-Ranger-Box.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-lohan-tribal",
+      "title": "Hino Lohan Tribal",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Lohan-Tribal.webp",
+      "mod_file": "Truck-Hino-Lohan-Tribal.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-lohan-muatan-kayu",
+      "title": "Hino Lohan Muatan Kayu",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Lohan-Muatan-Kayu.webp",
+      "mod_file": "Truck-Hino-Lohan-Muatan-Kayu.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-500-dylan",
+      "title": "Hino 500 Dylan",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Dylan.webp",
+      "mod_file": "Truck-Hino-500-Dylan.bussidmod"
+    },
+    {
+      "id": "truck-hino-500-mbois",
+      "title": "Hino 500 Mbois",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Mbois.webp",
+      "mod_file": "Truck-Hino-500-Mbois.bussidmod"
+    },
+    {
+      "id": "truck-hino-500-muatan-pipa",
+      "title": "Hino 500 Muatan Pipa",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Muatan-Pipa.webp",
+      "mod_file": "Truck-Hino-500-Muatan-Pipa.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-500-angkut-truk-tambang",
+      "title": "Hino 500 Angkut Truk Tambang",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Angkut-Truk-Tambang.webp",
+      "mod_file": "Truck-Hino-500-Angkut-Truk-Tambang.bussidvehicle"
+    },
+    {
+      "id": "truck-hino-500-tronton-panjang-banget",
+      "title": "Hino 500 Tronton Panjang",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-500-Tronton-Panjang-Banget.webp",
+      "mod_file": "Truck-Hino-500-Tronton-Panjang-Banget.bussidmod"
+    },
+    {
+      "id": "truck-hino-selfloader-muatan-excavator",
+      "title": "Hino Selfloader Muatan Excavator",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Truck-Hino-Selfloader-Muatan-Excavator.webp",
+      "mod_file": "Truck-Hino-Selfloader-Muatan-Excavator.bussidmod"
+    },
+    {
+      "id": "hino-700-chassis",
+      "title": "Hino 700 Chassis",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-700-Chassis.webp",
+      "mod_file": "Hino-700-Chassis.bussidmod"
+    },
+    {
+      "id": "hino-700-provia-muatan-tank-1280x720",
+      "title": "Hino 700 Provia Muatan Tank",
+      "category": "Hino 500 & 700",
+      "image": "Hino500/Hino-700-Provia-Muatan-Tank-1280x720.webp",
+      "mod_file": "Hino-700-Provia-Muatan-Tank-1280x720.bussidmod"
+    },
+    {
+      "id": "truck-quester-486-v1-muatan-excavator-mini",
+      "title": "Quester 486 v1 Muatan Excavator Mini",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truck-Quester-486-v1-muatan-Excavator-Mini.webp",
+      "mod_file": "Truck-Quester-486-v1-muatan-Excavator-Mini.bussidmod"
+    },
+    {
+      "id": "truk-quester-486-v2-muat-excavator",
+      "title": "Quester 486 v2 Muat Excavator",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truk-Quester-486-v2-muat-Excavator.webp",
+      "mod_file": "Truk-Quester-486-v2-muat-Excavator.bussidmod"
+    },
+    {
+      "id": "ud-quester-486-v3-bawa-crane",
+      "title": "Quester 486 v3 Bawa Crane",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/UD-Quester-486-v3-bawa-Crane.webp",
+      "mod_file": "UD-Quester-486-v3-bawa-Crane.bussidmod"
+    },
+    {
+      "id": "ud-quester-gemitia-viral-angkut-crane",
+      "title": "Quester Gemitia Viral Angkut Crane",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/UD-Quester-Gemitia-Viral-angkut-Crane.webp",
+      "mod_file": "UD-Quester-Gemitia-Viral-angkut-Crane.bussidmod"
+    },
+    {
+      "id": "truck-fuso-trailer-berat-muat-excavator",
+      "title": "Fuso Trailer Berat Muat Excavator",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truck-Fuso-Trailer-Berat-muat-Excavator.webp",
+      "mod_file": "Truck-Fuso-Trailer-Berat-muat-Excavator.bussidmod"
+    },
+    {
+      "id": "isuzu-giga-angkut-crane-berat",
+      "title": "Isuzu Giga Angkut Crane Berat",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Isuzu-Giga-angkut-Crane-Berat.webp",
+      "mod_file": "Isuzu-Giga-angkut-Crane-Berat.bussidmod"
+    },
+    {
+      "id": "mod-canter-trailer-muat-excavator",
+      "title": "Canter Trailer Muat Excavator",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Mod-Canter-Trailer-muat-Excavator.webp",
+      "mod_file": "Mod-Canter-Trailer-muat-Excavator.bussidmod"
+    },
+    {
+      "id": "mod-truk-fuso-the-great-trailer-dolly",
+      "title": "Fuso the Great Trailer Dolly",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Mod-Truk-Fuso-the-Great-Trailer-Dolly.webp",
+      "mod_file": "Mod-Truk-Fuso-the-Great-Trailer-Dolly.bussidmod"
+    },
+    {
+      "id": "truk-hino-trailer-muatan-alat-berat",
+      "title": "Hino Trailer Muatan Alat Berat",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truk-Hino-Trailer-muatan-Alat-Berat.webp",
+      "mod_file": "Truk-Hino-Trailer-muatan-Alat-Berat.bussidmod"
+    },
+    {
+      "id": "truck-daf-xf-muatan-crane",
+      "title": "DAF XF Muatan Crane",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truck-Daf-XF-muatan-Crane.webp",
+      "mod_file": "Truck-Daf-XF-muatan-Crane.bussidmod"
+    },
+    {
+      "id": "daf-xf-alat-berat",
+      "title": "DAF XF Alat Berat Buldozer",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Daf-XF-Alat-Berat.webp",
+      "mod_file": "Daf-XF-Alat-Berat.bussidmod"
+    },
+    {
+      "id": "truck-daf-xf-muat-traktor-tambang",
+      "title": "DAF XF Muat Traktor Tambang",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truck-Daf-XF-muat-Traktor-Tambang.webp",
+      "mod_file": "Truck-Daf-XF-muat-Traktor-Tambang.bussidmod"
+    },
+    {
+      "id": "scania-s730-bawa-crane-berat",
+      "title": "Scania S730 Bawa Crane Berat",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Scania-S730-bawa-Crane-Berat.webp",
+      "mod_file": "Scania-S730-bawa-Crane-Berat.bussidmod"
+    },
+    {
+      "id": "mercedes-arocs-slt-8x4-overload-berat",
+      "title": "Mercedes Arocs SLT 8X4 Overload Berat",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Mercedes-Arocs-SLT-8X4-Overload-Berat.webp",
+      "mod_file": "Mercedes-Arocs-SLT-8X4-Overload-Berat.bussidmod"
+    },
+    {
+      "id": "truk-man-tgs-muatan-crane",
+      "title": "MAN TGS Muatan Crane Biru Gradasi",
+      "category": "Muatan Alat Berat",
+      "image": "AlatBerat/Truk-MAN-TGS-muatan-Crane.webp",
+      "mod_file": "Truk-MAN-TGS-muatan-Crane.bussidmod"
+    }
+  ]
+}
